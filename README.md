@@ -25,33 +25,37 @@ Looking forward to joining a team, <br> while I keep learning and mastering my c
 </h3>
 
 ## 👨‍💻 Frontend Stack
-<img src="./tech_logos/javascript.png" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/html logo.webp" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/css logo.webp" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/react.webp" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/redux.png" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/sass.webp" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/material-ui.svg" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/bootstrap-256.png" width="50px"/>
-<br></br>
+<p>
+    <img src="./tech_logos/javascript.png" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/html logo.webp" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/css logo.webp" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/react.webp" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/redux.png" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/sass.webp" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/material-ui.svg" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/bootstrap-256.png" width="50px"/>
+</p>
+<br>
 
 ## 🛠️ Backend Stack
-<img src="./tech_logos/node white.svg" height="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/express.png" height="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/postgre.webp" width="50px"/>
-<span>&nbsp;</span>
-<img src="./tech_logos/sequelize iso.webp" width="50px"/>
-<span>&nbsp;</span>
-<br></br>
+<p>
+    <img src="./tech_logos/node white.svg" height="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/express.png" height="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/postgre.webp" width="50px"/>
+    <span>&nbsp;</span>
+    <img src="./tech_logos/sequelize iso.webp" width="50px"/>
+    <span>&nbsp;</span>
+</p>
+<br>
 
 
 
