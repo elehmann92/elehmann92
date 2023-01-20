@@ -71,10 +71,12 @@ Looking forward to joining a team, <br> while I keep learning and mastering my c
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="elehmann92 GH stats" src="https://github-readme-stats.vercel.app/api?username=elehmann92&show_icons=true&theme=dark" height="192px"/></a>
 <br/>
   &nbsp;
-	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=elehmann92&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	<!-- 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=elehmann92&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+-->
+		  
   </p>
 
 
